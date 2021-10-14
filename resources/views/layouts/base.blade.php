@@ -25,9 +25,15 @@
         </ul>
     </nav>
     </header>
+    <div class="im">
+    <img src="img/imgg.png">
+    </div>
     <main>
         @yield("content")
     </main>
+    <footer>
+        <p> footer</p>
+    </footer>
 </body>
 
 </html>
